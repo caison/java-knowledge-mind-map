@@ -8,7 +8,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 
-汇总展示各种Java服务端方面的知识,以知识脑图的形式展现
+汇总展示各种Java服务端方面的知识，以知识脑图的形式展现
 
 # 类似github知识库
 * [architecture.of.internet-product 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构](https://github.com/davideuler/architecture.of.internet-product)
