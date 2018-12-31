@@ -1,7 +1,7 @@
 # Java服务端知识技能图谱
 
 [![license](https://img.shields.io/badge/license-Attribution--NonCommercial%204.0%20-brightgreen.svg)](https://github.com/caison/java-knowledge-mind-map/blob/master/LICENSE)
-[![original](https://img.shields.io/badge/original-陈彩华-orange.svg)](https://github.com/caison/java-knowledge-mind-map)
+[![original](https://img.shields.io/badge/original-caison-orange.svg)](https://github.com/caison/java-knowledge-mind-map)
 [![stars](https://img.shields.io/github/stars/caison/java-knowledge-mind-map.svg)](https://github.com/caison/java-knowledge-mind-map/stargazers)
 [![forks](https://img.shields.io/github/forks/caison/java-knowledge-mind-map.svg)](https://github.com/caison/java-knowledge-mind-map/network/members)
 [![issues](https://img.shields.io/github/issues/caison/java-knowledge-mind-map.svg)](https://github.com/caison/java-knowledge-mind-map/issues)
@@ -19,6 +19,7 @@
 * [Redis](/分布式/Redis/)
 * [Dubbo](/分布式/Dubbo/)
 * [ZooKeeper](/分布式/ZooKeeper/)
+* [分布式锁](/分布式/分布式锁/)
 ## 并发编程
 * [线程池](/并发编程/线程池/)
 * [HashMap和ConcurrentHashMap](/并发编程/HashMap和ConcurrentHashMap /)
@@ -34,7 +35,7 @@
 * [architect-awesome 《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
 * [interviews 软件工程技术面试个人指南](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
 * [JavaGuide 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
-* [🎓 Java Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
+* [👨‍🎓 Java Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
 
 
 脑图规范说明
@@ -42,6 +43,6 @@
 * 一级主题字号 16
 * 二级主题字号 14
 * 背景颜色 RGB(80,84,96)
-* 风格 学院
+* 分格 学院
 
 
