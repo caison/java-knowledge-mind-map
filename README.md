@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="/logo/logo.png" width="150px">
+    <img src="/logo/logo.png" width="350px">
 </div> 
 
 # Java服务端知识技能图谱
