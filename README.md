@@ -8,7 +8,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 
-汇总展示各种Java服务端方面的知识，以知识脑图的形式展现，附带xmind脑图源文件
+汇总展示各种Java服务端方面的知识，以知识脑图的形式展现，附带xmind脑图源文件，持续更新
 
 
 # 目录
@@ -43,9 +43,8 @@ Mysql的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL
 * [architect-awesome 《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
 * [interviews 软件工程技术面试个人指南](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
 * [JavaGuide 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
-* [👨‍🎓 Java Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
-
-
+* [🎓 Java Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
+* [j360-tools Java底层知识点、技术栈相关原理知识点、工具最佳实践](https://github.com/xuminwlt/j360-tools)
 脑图规范说明
 * 脑图标题字号 18
 * 一级主题字号 16
