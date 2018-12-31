@@ -1,4 +1,8 @@
-![logo](/logo/logo.png)
+
+<div align="center">
+    <img src="/logo/logo.png" >
+</div> 
+
 # Java服务端知识技能图谱
 
 [![license](https://img.shields.io/badge/license-Attribution--NonCommercial%204.0%20-brightgreen.svg)](https://github.com/caison/java-knowledge-mind-map/blob/master/LICENSE)
