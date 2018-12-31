@@ -10,6 +10,22 @@
 
 汇总展示各种Java服务端方面的知识，以知识脑图的形式展现
 
+
+# 目录
+## Java虚拟机
+* [内存结构](/Java虚拟机/内存结构/)
+* [垃圾回收](/Java虚拟机/垃圾回收/)
+## 分布式
+* [Redis](/分布式/Redis/)
+* [Dubbo](/分布式/Dubbo/)
+* [ZooKeeper](/分布式/ZooKeeper/)
+## 并发编程
+* [线程池](/并发编程/线程池/)
+* [HashMap和ConcurrentHashMap](/并发编程/HashMap和ConcurrentHashMap /)
+## 数据库
+* [数据库](/数据库)
+
+
 # 类似github知识库
 * [architecture.of.internet-product 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构](https://github.com/davideuler/architecture.of.internet-product)
 * [📚 CyC Computer Science Learning Notes  (技术面试需要掌握的基础知识整理)](https://github.com/CyC2018/CS-Notes)
