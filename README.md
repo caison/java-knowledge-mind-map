@@ -47,9 +47,9 @@ Mysql的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL
 * [j360-tools Java底层知识点、技术栈相关原理知识点、工具最佳实践](https://github.com/xuminwlt/j360-tools)
 
 # 联系作者
-邮箱 caison@aliyun.com
-微信 hua1881375
-公众号 caison_way
+* 邮箱 caison@aliyun.com
+* 微信 hua1881375
+* 公众号 caison_way
 
 脑图规范说明
 * 脑图标题字号 18
