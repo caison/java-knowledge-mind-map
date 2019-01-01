@@ -6,7 +6,7 @@
 # Java服务端知识技能图谱
 
 [![license](https://img.shields.io/badge/license-Attribution--NonCommercial%204.0%20-brightgreen.svg)](https://github.com/caison/java-knowledge-mind-map/blob/master/LICENSE)
-[![original](https://img.shields.io/badge/original-caison-orange.svg)](https://github.com/caison/java-knowledge-mind-map)
+[![original](https://img.shields.io/badge/original-陈彩华-orange.svg)](https://github.com/caison/java-knowledge-mind-map)
 [![stars](https://img.shields.io/github/stars/caison/java-knowledge-mind-map.svg)](https://github.com/caison/java-knowledge-mind-map/stargazers)
 [![forks](https://img.shields.io/github/forks/caison/java-knowledge-mind-map.svg)](https://github.com/caison/java-knowledge-mind-map/network/members)
 [![issues](https://img.shields.io/github/issues/caison/java-knowledge-mind-map.svg)](https://github.com/caison/java-knowledge-mind-map/issues)
