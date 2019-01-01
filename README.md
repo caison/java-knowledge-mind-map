@@ -46,6 +46,7 @@ Mysql的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL
 * [😮 advanced-java 互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 * [technology-talk 汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典架构案例、数据库、常用三方库、线上运维等知识](https://github.com/aalansehaiyang/technology-talk)
 * [architect-awesome 《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
+* [miaosha 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓](https://github.com/qiurunze123/miaosha)
 * [interviews 软件工程技术面试个人指南](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
 * [JavaGuide 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 * [🎓 Java Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
