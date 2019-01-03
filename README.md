@@ -39,6 +39,9 @@ jdk7、jdk8的HashMap和ConcurrentHashMap实现解析，并发分析，关键参
 ## 数据库
 * [数据库](/数据库)
 Mysql的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL执行流程等
+## 方法论
+* [架构设计方法论](/方法论/架构设计方法论)
+架构设计相关基本概念、架构设计的目的、设计原则、架构设计基本设计流程等
 
 # 类似github知识库
 * [architecture.of.internet-product 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构](https://github.com/davideuler/architecture.of.internet-product)
@@ -58,9 +61,8 @@ Mysql的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL
 * 公众号 caison_way
 
 脑图规范说明
-* 脑图标题字号 18
-* 一级主题字号 16
-* 二级主题字号 14
+* 脑图字号 12
+* 行间距 1个空行
 * 背景颜色 RGB(80,84,96)
 * 风格 学院
 
