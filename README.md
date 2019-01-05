@@ -39,6 +39,9 @@ jdk7、jdk8的HashMap和ConcurrentHashMap实现解析，并发分析，关键参
 ## 数据库
 * [数据库](/数据库)
 Mysql的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL执行流程等
+## Java基础
+* [ArrayList和LinkList](/Java基础/ArrayList和LinkList/)
+ArrayList和LinkList的基本原理，基本操作实现，2者的比较
 ## 方法论
 * [架构设计方法论](/方法论/架构设计方法论)
 架构设计相关基本概念、架构设计的目的、设计原则、架构设计基本设计流程等
