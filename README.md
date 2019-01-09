@@ -50,6 +50,8 @@ TCP相关常见问题概念(三次握手，四次挥手)，HTTP相关问题概�
 ## 方法论
 * [架构设计方法论](/方法论/架构设计方法论)
 架构设计相关基本概念、架构设计的目的、设计原则、架构设计基本设计流程等
+* [开源项目学习方法论](/方法论/开源项目学习方法论)
+学习开源项目常见错误观点解析，学习的层次，学习的方法步骤介绍
 
 # 类似github知识库
 * [architecture.of.internet-product 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构](https://github.com/davideuler/architecture.of.internet-product)
