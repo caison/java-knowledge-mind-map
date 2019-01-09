@@ -38,7 +38,7 @@ RPC介绍、Dubbo特性、架构、负载均衡、集群容错策略
 jdk7、jdk8的HashMap和ConcurrentHashMap实现解析，并发分析，关键参数
 ## 数据库
 * [数据库](/数据库)
-Mysql的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL执行流程等
+MySQL的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL执行流程等
 ## Java基础
 * [ArrayList和LinkedList](/Java基础/ArrayList和LinkedList/)
 ArrayList和LinkedList的基本原理，基本操作实现，2者的比较
