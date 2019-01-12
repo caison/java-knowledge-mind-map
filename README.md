@@ -36,14 +36,14 @@ RPC介绍、Dubbo特性、架构、负载均衡、集群容错策略
 ## 并发编程
 * [线程池](/并发编程/线程池/)
 线程池解决的问题、阻塞队列、线程池架构、任务饱和策略、线程池配置、线程池关闭、常见线程池类型
-* [HashMap和ConcurrentHashMap](/并发编程/HashMap和ConcurrentHashMap /)
-jdk7、jdk8的HashMap和ConcurrentHashMap实现解析，并发分析，关键参数
 ## 数据库
 * [数据库](/数据库)
 MySQL的Innodb与MyISAM比较、数据库锁、事务、索引、SQL优化、SQL执行流程等
 ## Java基础
 * [ArrayList和LinkedList](/Java基础/ArrayList和LinkedList/)
 ArrayList和LinkedList的基本原理，基本操作实现，2者的比较
+* [HashMap和ConcurrentHashMap](/Java基础/HashMap和ConcurrentHashMap /)
+jdk7、jdk8的HashMap和ConcurrentHashMap实现解析，并发分析，关键参数
 ## 计算机网络
 * [互联网协议](/计算机网络/互联网协议)
 互联网协议五层协议(应用层、传输层、网络层、链路层、物理层)由来，概念定义、作用的解析
