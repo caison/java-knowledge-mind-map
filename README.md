@@ -26,12 +26,12 @@
   * [内存模型](/Java/JVM/内存模型/)
   内存模型产生背景、Java内存模型组成分析、内存间的交互操作、运行规则、volatile变量规则等
 * 并发
-  * [线程池](/并发编程/线程池/)
+  * [线程池](/Java/并发/线程池/)
   线程池解决的问题、阻塞队列、线程池架构、任务饱和策略、线程池配置、线程池关闭、常见线程池类型
 * 集合
-  * [ArrayList和LinkedList](/Java基础/ArrayList和LinkedList/)
+  * [ArrayList和LinkedList](/Java/集合/ArrayList和LinkedList/)
   ArrayList和LinkedList的基本原理，基本操作实现，2者的比较   
-  * [HashMap和ConcurrentHashMap](/Java基础/HashMap和ConcurrentHashMap/)
+  * [HashMap和ConcurrentHashMap](/Java/集合/HashMap和ConcurrentHashMap/)
   jdk7、jdk8的HashMap和ConcurrentHashMap实现解析，并发分析，关键参数
   
 ## 分布式
