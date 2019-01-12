@@ -13,7 +13,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 
-汇总展示各种Java服务端方面的知识，以知识脑图的形式展现，附带xmind脑图源文件，持续更新
+汇总Java服务端方面的知识，以知识脑图的形式展现，附带xmind脑图源文件，持续更新
 
 
 # 目录
