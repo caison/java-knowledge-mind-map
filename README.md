@@ -75,11 +75,4 @@ TCP状态变迁图、TCP相关常见问题概念(三次握手，四次挥手)，
 * 邮箱 caison@aliyun.com
 * 微信 hua1881375
 * 公众号 caison_way
-
-脑图规范说明
-* 脑图字号 12
-* 行间距 1个空行
-* 背景颜色 RGB(80,84,96)
-* 风格 学院
-
-
+* 个人博客 https://www.jianshu.com/u/ced6b70c7fc5
