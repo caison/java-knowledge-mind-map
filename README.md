@@ -58,7 +58,7 @@ TCP状态变迁图、TCP相关常见问题概念(三次握手，四次挥手)，
 * [开源项目学习](/方法论/开源项目学习)
 学习开源项目常见错误观点解析，学习的层次，学习的方法步骤介绍
 * [Java服务线上应急](/方法论/Java服务线上应急)
-线上服务应急流程，问题解决的思路、技巧，常见工具，命令行监控脚本
+线上服务应急流程，问题解决的思路、技巧，常见工具，命令行工具脚本
 
 # 类似github知识库
 * [architecture.of.internet-product 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构](https://github.com/davideuler/architecture.of.internet-product)
