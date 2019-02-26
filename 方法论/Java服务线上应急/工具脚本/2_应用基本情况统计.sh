@@ -32,6 +32,7 @@ echo -e "\033[34m[进程线程数]\033[0m"
 ps hH p $pid|wc -l
 echo
 
+# lsof 安装命令yum install lsof -y
 echo -e "\033[33m--------------------------------存储负载------------------------------------------\033[0m"
 echo -e "\033[34m[进程内存空间使用]\033[0m"
 echo $(cat  /proc/$pid/status|grep -e VmRSS| awk '{print $2/1024 "Mb"}')
