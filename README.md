@@ -74,6 +74,7 @@ TCP状态变迁图、TCP相关常见问题概念(三次握手，四次挥手)，
 * [JavaGuide 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 * [🎓 Java Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
 * [j360-tools Java底层知识点、技术栈相关原理知识点、工具最佳实践](https://github.com/xuminwlt/j360-tools)
+* [Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java](https://github.com/javagrowing/JGrowing)
 
 # 建立这个库的目的
 个人建立这个库最大的目的是为了成长，梳理脑图只是一个手段，但不是结果，只是一个高效的学习方法。
