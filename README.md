@@ -98,7 +98,6 @@ TCP状态变迁图、TCP相关常见问题概念(三次握手，四次挥手)，
 # 联系作者
 * 邮箱 caison@aliyun.com
 * 微信 hua1881375
-* 公众号 caison_way
-* 个人博客 https://www.jianshu.com/u/ced6b70c7fc5
+![](https://user-gold-cdn.xitu.io/2019/9/26/16d6c02684adbc37?w=475&h=253&f=png&s=33568)
 
 欢迎大家提批评、建议、改进意见
