@@ -100,6 +100,10 @@ TCP状态变迁图、TCP相关常见问题概念(三次握手，四次挥手)，
 * 微信 hua1881375
 
 
-![](https://user-gold-cdn.xitu.io/2019/9/28/16d758d532790461?w=471&h=248&f=png&s=29216)
+<div align="center">
+    <img src="https://user-gold-cdn.xitu.io/2019/9/28/16d758d532790461?w=471&h=248&f=png&s=29216" >
+</div> 
 
-欢迎大家提批评、建议、改进意见
+
+
+
